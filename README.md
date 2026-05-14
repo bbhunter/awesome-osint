@@ -1651,6 +1651,7 @@ algorithms, knowledgebase and AI technology.
 * [OSINT.SH](https://osint.sh/) - Information Gathering Toolset.
 * [OsintStalker](https://github.com/milo2012/osintstalker) - Python script for Facebook and geolocation OSINT.
 * [Outwit](http://www.outwit.com) - Find, grab and organize all kinds of data and media from online sources.
+* [PassiveRecon](https://github.com/rudra496/PassiveRecon-Aggregator) - Passive asset discovery tool for mapping external IT perimeters. Aggregates Shodan, Crt.sh and public APIs.
 * [PGPKeyAnalyser](https://kriztalz.sh/pgp-key-analyser/) - Analyse and view the details of a PGP key online without having to download the asc file.
 * [Photon](https://github.com/s0md3v/Photon) - Crawler designed for OSINT
 * [Pyba](https://github.com/fauvidoTechnologies/PyBrowserAutomation/) - A browser automation framework which requires low-code to search the web and perform OSINT using DFS and BFS modes, ideal for exploratory tasks.
